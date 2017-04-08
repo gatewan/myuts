@@ -2,7 +2,7 @@
 CUSTOMIZE CSS BOOTSTRAP
 -------------------*/
 .jumbotron {
-    background-color: #5cb85c;
+    background-color: #87d65e;
 	padding-top: 60px;
     padding-bottom: 30px;
 }
@@ -12,9 +12,10 @@ CUSTOMIZE CSS BOOTSTRAP
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-    background-color: #d9edf7;
+    background-color: #87d65e;
 }
 
-.navbar-default {
-    border-color: #5cb85c;
+.navbar{
+    border-color: #87d65e;
+	box-shadow: 2px 2px 1px #87d65e;
 }
