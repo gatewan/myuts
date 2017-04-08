@@ -1,0 +1,12 @@
+/* ---------------------
+CUSTOMIZE CSS BOOTSTRAP
+-------------------*/
+.jumbotron {
+    background-color: #d9edf7;
+	padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.btn-group-lg>.btn, .btn-lg{
+	padding: 8px 15px;	
+}
