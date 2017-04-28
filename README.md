@@ -1,5 +1,5 @@
 # myuts
-Project UTS Rekayasa Web 2017 - Dibuat guna memenuhi tugas UTS sekaligus project jangka panjang untuk evolusi situs pribadi bilamana sudah cukup mampu untuk beralih ke self hosting.
+Project UTS Rekayasa Web 2017 - Dibuat guna memenuhi tugas UTS sekaligus tindak lanjut dari tugas sebelumnya tentang pembuatan wireframe / sketsa homepage yang bisa dibuat di atas kertas atau menggunakan tools http://gomockingbird.com dan project jangka panjang untuk evolusi situs pribadi bilamana sudah cukup mampu untuk beralih ke self hosting.
 
 # Referensi Desain
 * Dokumentasi bootstrap
